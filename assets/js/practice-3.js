@@ -48,11 +48,13 @@ console.log(average(8, 4));
 
 // console.log(sum(10, 4));
 
-const hello = () => {
-    console.log("Hello how are you");
-    return "Hi";
-}
-console.log(hello());
+// const hello = () => {
+//     console.log("Hello how are you");
+//     return "Hi";
+// }
+// console.log(hello());
 
 // let a = hello();
 // console.log(a);
+
+
