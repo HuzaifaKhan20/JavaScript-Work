@@ -24,9 +24,31 @@ let namee = "Xain Khan";
 // console.log(friend);
 // console.log(friend.trim());
 
-console.log(namee[5]);
+// console.log(namee[5]);
 // namee[5] = "o"; //This is not possible
-console.log(namee);
+// console.log(namee);
 // for (let i = 0; i < 10; i++) {
 //     console.log(namee[i]);
 // }
+
+
+// Code to check whether word is includes in the sentence
+/*const sentence = 'The quick brown fox jumps over the lazy dog.';
+const word = 'fox2';
+includes(word) will return true if word is present in the sentence
+console.log(`The word "${word}" ${sentence.includes(word) ? 'is' : 'is not'} in the sentence`);*/
+
+
+// Problem 4
+/*let str2 = "Please give Rs 1000";
+let amount = Number.parseInt(str2.slice(15));
+console.log(amount);
+console.log(typeof amount);
+*/
+
+
+// Problem 5
+/*let friend = "UK";
+friend[0]= "X";
+console.log(friend); // friend is not changed, because string is immutable
+*/
