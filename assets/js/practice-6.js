@@ -24,7 +24,7 @@ console.log(typeof arr); */
 // let r = num.unshift(53); // add an element to the start of an array
 // console.log(num, r);
 // console.log(num, num.length);
-// delete num[0];
+// delete num[0];  // it will delete element and put undefined in place of it in array
 // console.log(num, num.length);
 // let num_more = [11, 12,13,14,15];
 // let num_even_more = [11, 12,13,14,15];
@@ -49,7 +49,7 @@ console.log(typeof arr); */
 
 // Splice Method
 // let num = [1, 2, 3, 35, 4];
-// num.splice(2,2,1025,1026,1027,1028); // it modifies the original array
+// num.splice(2,2,1025,1026,1027,1028); // it modifies the original array // Her it removes 2 elements starting from index 2.
 // let deletedValues = num.splice(2,3,1025,1026,1027,1028); // it returns the deleted elements of an array
 // console.log(deletedValues);
 
