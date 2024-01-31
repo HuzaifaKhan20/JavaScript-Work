@@ -1,0 +1,1 @@
+// elem.innerHTML is used to populate a div with HTML. Create a website with a div tag combining a random joke given an array of jokes. Use math.random. Your website should show a random joke on every reload. Min length of your jokes array should be 10.
